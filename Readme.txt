@@ -20,7 +20,3 @@ Username: admin
 Password: 1234
 
 This project is free to use both personal and commercial
-
-For commercial use, we recommend to first contact us to give support, improve on security and to add more useful functionalities
-
-All our services are free don't fear to contact us on code4berryteam@gmail.com
